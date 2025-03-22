@@ -14,9 +14,9 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topicos 2:
 
-- [ ] String and Methods
-- [ ] Math operetions
-- [ ] Arrays
-- [ ] Conditionals
-- [ ] Loops
-- [ ] Basic OOP in Java
+- [x] String and Methods
+- [x] Math operetions
+- [x] Arrays
+- [x] Conditionals
+- [x] Loops
+- [x] Basic OOP in Java
