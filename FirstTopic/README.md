@@ -54,18 +54,7 @@
 
 ``Interface`` | Modelo de padronização de classes.
 
-### Conversão de tipos:
 
-Há dois tipo de conversão de tipos no java: **Implicito** e **Explicito**;
-
-- Implicito (Widenig): Valor automaticamente convertido para o tipo requisitado
-
-- Explicito (Narrowing): É necessário indicar o casting do tipo na frente do valor enviado.
-```java
-//ex
-double d = 10.5;
-int d = (int) c;
-``` 
 
 ### Wrapped classes
 
@@ -90,3 +79,15 @@ public class Exemplo {
 }
 ```
 
+## Conversão de tipos:
+
+Há dois tipo de conversão de tipos no java: **Implicito** e **Explicito**;
+
+- Implicito (Widenig): Valor automaticamente convertido para o tipo requisitado
+
+- Explicito (Narrowing): É necessário indicar o casting do tipo na frente do valor enviado.
+```java
+//ex
+double d = 10.5;
+int d = (int) c;
+```

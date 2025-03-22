@@ -6,17 +6,17 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topicos 1.1:
 
-- Basic Syntax
-- Lifecycle of a prrogram
-- DataTypes
-- Variables and Scopes
-- Type Casting
+- [x] Basic Syntax 
+- [x] Lifecycle of a program
+- [x] DataTypes
+- [x] Variables and Scopes
+- [x] Type Casting
 
-### Topicos 1.2:
+### Topicos 2:
 
-- String and Methods
-- Math operetions
-- Arrays
-- Conditionals
-- Loops
-- Basic OOP in Java
+- [ ] String and Methods
+- [ ] Math operetions
+- [ ] Arrays
+- [ ] Conditionals
+- [ ] Loops
+- [ ] Basic OOP in Java
