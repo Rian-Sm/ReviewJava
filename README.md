@@ -23,28 +23,25 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topicos 3 - OOP basic:
 
-- [ ] Classes e Objetos
-- [ ] Atributos e metodos
-- [ ] Acesso especificos
-- [ ] Diretiva Statica
-- [ ] Diretiva Final
-- [ ] Nested Classes
-- [ ] Packages
+- [x] Classes e Objetos
+- [x] Atributos e metodos
+- [x] Acesso especificos
+- [x] Diretiva Statica
+- [x] Diretiva Final
+- [x] Classes aninhadas
+- [x] Packages
 
 ### Topicos 4 - OOP Mais Conceitos:
 
-- [ ] Ciclo de vida de Objetos
-- [ ] Herança
-- [ ] Abstraction
-- [ ] Metodos encadeados
-- [ ] Encapsulamento
-- [ ] Interfaces
-- [ ] Enumeraveis
-- [ ] Gravação (Record)
-- [ ] Sobrescrita de metodo
-- [ ] Bloco de inicialização
-- [ ] Bind Estatico e Dinamico
-- [ ] Passando valores e referencias
-
-
-
+- [x] Ciclo de vida de Objetos
+- [x] Herança
+- [x] Abstraction
+- [x] Metodos encadeados
+- [x] Encapsulamento
+- [x] Interfaces
+- [x] Enumeraveis
+- [x] Gravação (Record)
+- [x] Sobrescrita de metodo
+- [x] Bloco de inicialização
+- [x] Bind Estatico e Dinamico
+- [x] Passando valores e referencias
