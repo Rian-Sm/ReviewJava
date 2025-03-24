@@ -45,3 +45,14 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 - [x] Bloco de inicialização
 - [x] Bind Estatico e Dinamico
 - [x] Passando valores e referencias
+
+### Topico 5
+
+- [ ] Exeception Handling
+- [ ] Lambda Expressions
+- [ ] Annotations
+- [ ] Modules
+- [ ] Optionals
+- [ ] Dependency Injection
+- [ ] I/O Operations
+- [ ] File Operations
