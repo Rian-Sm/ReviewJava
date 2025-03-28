@@ -48,7 +48,7 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topico 5
 
-- [ ] Exeception Handling
+- [x] Exeception Handling
 - [ ] Lambda Expressions
 - [ ] Annotations
 - [ ] Modules
