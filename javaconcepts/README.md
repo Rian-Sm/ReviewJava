@@ -36,6 +36,20 @@ O Java fornece várias interfaces funcionais no pacote ```java.util.function```:
 - BiFunction<T, U, R> > Aplica a função de dois Objetos e obtem um resultado.
 
 ## Annotations
+Em java, annotations são metadados que adicionam informações adicionais para o compilador, JVM ou Framework. Sendo usadas para configurar comportamentos, validar codigo ou gerar automaticamente.
+
+Podem ser aplicados em classes, metodos, variaveis, parametros...
+
+podem ser usadas pelo compulados, jvm ou por frameworks para comportamentos especificos.
+
+Existem 3 tipos de Annotations:
+- Annotations Padrao > Fornecidas pelo proprio java.
+- Annotations Personalidadas > Criadas pelos devs do projeto.
+- Annotations de Framework > Criada por frameworks
+
+### Annotations Personalizadas
+
+As annotations personalizadas podem ser usadas para criação de metadados nos recursos citados acima, mas tambem podem ser usadas de meta-annotatios, que configuram o comportamento de outras annotations.
 
 ## Modules
 

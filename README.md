@@ -49,7 +49,7 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 ### Topico 5
 
 - [x] Exeception Handling
-- [ ] Lambda Expressions
+- [x] Lambda Expressions
 - [ ] Annotations
 - [ ] Modules
 - [ ] Optionals
