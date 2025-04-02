@@ -52,10 +52,22 @@ Existem 3 tipos de Annotations:
 As annotations personalizadas podem ser usadas para criação de metadados nos recursos citados acima, mas tambem podem ser usadas de meta-annotatios, que configuram o comportamento de outras annotations.
 
 ## Modules
+Utilizado no Java Plataform Module System (JPMS), para organizar oos modulos do projeto em unidades modulares, melhorando manutenção.
+
+Modulos são o conjunbto de packotes e recursos que podem ser encapsulados e exportados seletivamente.
+Define acesso de pacotes e acesso dos modulos e dependencias necessarias.
+
+Modulo definido em arquivo ```module-info.java```
 
 ## Optionals
 
+Classe de java para representar valores nulos ou ausentes.
+
 ## Dependency Injection
+
+Padrao de desacoplamento de classe para fornecer dependencia externa à classe utilizada.
+
+Padroes de injeção de dependencia são feitos por meio de construtor, setters e field (framework spring ou outro)
 
 ## I/O Operations
 

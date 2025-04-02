@@ -50,9 +50,9 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 - [x] Exeception Handling
 - [x] Lambda Expressions
-- [ ] Annotations
-- [ ] Modules
-- [ ] Optionals
-- [ ] Dependency Injection
+- [x] Annotations
+- [x] Modules
+- [x] Optionals
+- [x] Dependency Injection
 - [ ] I/O Operations
 - [ ] File Operations
