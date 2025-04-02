@@ -71,4 +71,10 @@ Padroes de injeção de dependencia são feitos por meio de construtor, setters 
 
 ## I/O Operations
 
+São operações de leitura e escrita em diferentes fontes como teclado, arquivos ou a rede, utilizando normalmente os pacotes ```java.io``` e ```java.nio```
+
 ## File Operations
+
+As operações padrão das duas biblitecas de I/O para arquivo são read, write, create e delete.
+
+Alem de possuir algumas funcionalidade de manipulação de diretorios que são importantes na utilização de diretios, como listagem de diretorios ou criação de pastas.

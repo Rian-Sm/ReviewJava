@@ -54,5 +54,5 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 - [x] Modules
 - [x] Optionals
 - [x] Dependency Injection
-- [ ] I/O Operations
-- [ ] File Operations
+- [x] I/O Operations
+- [x] File Operations
