@@ -56,3 +56,21 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 - [x] Dependency Injection
 - [x] I/O Operations
 - [x] File Operations
+
+### Topico 6 - Collections
+
+- [x] Arrays and ArraysList
+- [x] Set
+- [x] Map
+- [x] Queue
+- [x] Stack
+- [x] Dequeue
+- [x] Iteractor
+- [x] Generic Collections
+
+### Topico 7 - Concorrência
+
+- [ ] Volatile Keyword
+- [ ] Java Memory Model
+- [ ] Virtual Threads
+- [ ] Basics of Threads
