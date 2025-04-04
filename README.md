@@ -73,4 +73,4 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 - [x] Basics of Threads
 - [x] Virtual Threads
 - [x] Java Memory Model
-- [ ] Volatile Keyword
+- [x] Volatile Keyword
