@@ -70,7 +70,7 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topico 7 - Concorrência
 
+- [x] Basics of Threads
+- [x] Virtual Threads
+- [x] Java Memory Model
 - [ ] Volatile Keyword
-- [ ] Java Memory Model
-- [ ] Virtual Threads
-- [ ] Basics of Threads

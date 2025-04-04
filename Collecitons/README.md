@@ -44,3 +44,7 @@ Forma de varrer elementos de maneira sequencial sem conhecer sua estrutura exata
 ## Generic Collections
 
 Forma de implementa um dos tipos de elementos filtrando o tipo de elemento possivel na lista, assim retornando exception em tempo de compilação tambem elimando casting e dando segurança aos tipo usandos.
+
+Havendo conceito de wildcards sendo tipos que voce não tem certeza do que são simbolizados por ```?```, eles podem extender de outra classe de duas maneiras, sendo ```extends ``` e ```super``` simbolizando ser filho ou pai de outra classe.
+
+Há tambem os tipos genericos de classes e metodos ```T``` utilizadaos para reutilização.
