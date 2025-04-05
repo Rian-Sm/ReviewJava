@@ -74,3 +74,17 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 - [x] Virtual Threads
 - [x] Java Memory Model
 - [x] Volatile Keyword
+
+### Topico 8 - Utils
+
+- [ ] Cryptography
+- [ ] Date and time
+- [ ] Networking
+- [ ] Regular Expressions
+
+### Topico 9 - Functional programming
+
+- [ ] High Order Funcions
+- [ ] Functional Interfaces
+- [ ] Functional Composition
+- [ ] Stream API
