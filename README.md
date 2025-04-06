@@ -77,10 +77,10 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topico 8 - Utils
 
-- [ ] Cryptography
-- [ ] Date and time
-- [ ] Networking
-- [ ] Regular Expressions
+- [x] Cryptography
+- [x] Date and time
+- [x] Networking
+- [x] Regular Expressions
 
 ### Topico 9 - Functional programming
 
