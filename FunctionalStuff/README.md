@@ -58,4 +58,3 @@ Uma metodo de uma stream que retorna outra stream durante a execução
 
 - Terminal
 Operação termiais são aquelas que consomem uma stream e retornam um resultado.
-

@@ -1,1 +1,3 @@
 *.class
+BuildStuff/MavenApp/app/target
+BuildStuff/MavenApp/app/.mvn

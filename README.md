@@ -84,7 +84,14 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ### Topico 9 - Functional programming
 
-- [ ] High Order Funcions
-- [ ] Functional Interfaces
-- [ ] Functional Composition
-- [ ] Stream API
+- [x] High Order Funcions
+- [x] Functional Interfaces
+- [x] Functional Composition
+- [x] Stream API
+
+
+### Topico 10 - Building Tool 
+
+- [ ] Gradle
+- [ ] Maven
+- [ ] Bazel
