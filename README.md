@@ -4,6 +4,8 @@ Review pessoal de tópicos de java.
 
 Referência de roadmap [aqui](https://roadmap.sh/java).
 
+## Javinha
+
 ### Topicos 1:
 
 - [x] Basic Syntax 
@@ -98,16 +100,34 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ## WebFramework Spring Boot 
 
+Spring Framework é um topico a parte dentro do desenvolvimento web com java informações do roadmap base para o estudo [aqui](https://roadmap.sh/spring-boot)
+
 ### Topico 11 - Spring Introduction
+
+- [ ] Terminologia 
+- [ ] Arquitetura
+- [ ] Por que spring
 
 ### Topico 12 - Spring core
 
-### Topico 13 - Spring core
+- [ ] Configuração 
+- [ ] Dependency injection
+- [ ] Spring IOC
+- [ ] Spring AOP
+- [ ] Spring MVC
+- [ ] Annotations
+- [ ] Spring Bean Scope
 
-### Topico 14 - Spring Security
+### Topico 13 - Spring Security
 
-### Topico 15 - Spring micellanius
+### Topico 14 - Spring micellanius
 
-### Topico 16 - Spring Cloud
+### Topico 15 - Spring Cloud
+
+### Topico 16 - Spring Data
+
+### Topico 17 - Spring MVC
+
+### Topico 18 - Spring Testing
 
 
