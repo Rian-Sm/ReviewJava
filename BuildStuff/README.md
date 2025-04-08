@@ -57,5 +57,26 @@ mvn exec:java -Dexec.mainClass="com.rsm.app.App"
 
 ## Gradle
 
+### Instalação 
+[Aqui](https://gradle.org/install/) tem as informações de instalação
+
+### Iniciar projeto
+
+```sh
+gradle init --type java-application  --dsl kotlin 
+```
+
+### Outros comandos
+
+```sh
+#Build do projeto
+gradle build
+#Executa projeto
+gradle run
+#Limpa projeto
+gradle clean
+
+```
+
 
 
