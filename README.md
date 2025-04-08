@@ -91,7 +91,6 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 - [x] Functional Composition
 - [x] Stream API
 
-
 ### Topico 10 - Building Tool 
 
 - [x] Gradle
@@ -100,13 +99,13 @@ Referência de roadmap [aqui](https://roadmap.sh/java).
 
 ## WebFramework Spring Boot 
 
-Spring Framework é um topico a parte dentro do desenvolvimento web com java informações do roadmap base para o estudo [aqui](https://roadmap.sh/spring-boot)
+Spring é um topico a parte dentro do desenvolvimento web com java informações do roadmap base para o estudo [aqui](https://roadmap.sh/spring-boot)
 
 ### Topico 11 - Spring Introduction
 
-- [ ] Terminologia 
-- [ ] Arquitetura
-- [ ] Por que spring
+- [x] Terminologia
+- [x] Arquitetura
+- [x] Por que spring
 
 ### Topico 12 - Spring core
 
