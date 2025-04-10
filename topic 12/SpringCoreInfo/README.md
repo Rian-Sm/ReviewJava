@@ -25,7 +25,9 @@ Estas dependencias podem ser baixadas do Maven Central, JCenter ou repositorios 
 
 ## Dependency Injection
 
+Classico injeção de dependencia.
 
+Em Java Spring boot a injeção de dependencia é gerenciada pelo proprio Spring.
 
 ## Spring IOC
 
