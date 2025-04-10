@@ -65,7 +65,81 @@ Conceitos principais:
 
 ## Spring MVC
 
+Padão de aplicação Model View Controller dentro do java.
+
+Divisão:
+
+- Model: Objetos Java pojo's ou entidades JPA
+- View: Paginas HTML, JSP, Thymeleaf, ou outro mecanismo de view
+- Controller: Interfaces anotadas com `@Controller` ou `@RestController`
+
+### Estrutura base 
+
+```
+src/
+├── main/
+│   ├── java/
+│   │   └── com/
+│   │       └── example/
+│   │           └── demo/
+│   │               ├── DemoApplication.java
+│   │               ├── controller/
+│   │               │   └── HomeController.java
+│   │               ├── model/
+│   │               │   └── User.java
+│   │               └── service/
+│   │                   └── UserService.java
+│   └── resources/
+│       ├── application.properties
+│       ├── static/
+│       │   └── css/
+│       │       └── styles.css
+│       └── templates/
+│           └── home.html
+```
+
 ## Annotations
+
+Tipos diferentes de anotação:
+
+- **Configuração**:
+    - `@SpringBootApplication`: combinação de anotações que marca classe principal da aplicação.
+    - `@Configuration`: Classe contem definição de Beans e configurações.
+    - `@EnableAutoConfiguration`: Configuração automatica do Spring Boot.
+    - `@ComponentScan`: Anotação que habilita escaneamento de anotações de **component**, **service** e **repository**.
+
+- **Component**:
+    - `@Component`: Classe Bean gerenciada pelo Spring.
+    - `@Service`: Bean especializada em logica de negocio.
+    - `@Repository`: Bean especializada em acesso a dados.
+    - `@Controller`: Bean especializada em requisições http que retornam views.
+    - `@RestController`: Combinação entre anotação de **@Controller** e **@ResponseBody** para retorno de dados.
+
+- **Dependency Injection**: 
+    - `@Autowired`: Injeta automaticamente dependencia ao campo, Construtor ou Método.
+    - `@Qualifier`: Especifica qual Bean deve ser injetado na dependencia (casos de interfaces)
+    - `@Primary`: Especificada na Bean para selecionar como bean principal para ser injetada como dependencia.
+
+- **Web e MVC**:
+    - `@RequestMapping()`: Mapeia classe ou metodo para algum path
+    - @ Get/Post/Put/Delete/Patch + Mapping: mapeamento de Tipo de requisição
+    - `@RequestParam`: Injeta parametro de requisição no metodo.
+    - `@RequestBody`: Injeta corpo de requisição no metodo.
+    - `@PathVariable`: Injeta variavel de caminho no metodo.
+    - `@ResponseBody`: Indica que o retorno do metodo deve ser escrito diretamente no corpo da resposta http.
+
+- **Validação**:
+    - `@Valid`: Valida Objetos no corpo da requisição
+    - `@NotNull`, `@Size`, `@Min`, `@Max`: anotações de validação de campo, localizado em classes.
+
+- **Testes**:
+    - `@SpringBootTest`: Configura ambiente de testes para aplicações spring boot.
+    - `@MockBean`: Cria mock de uma Bean para testes.
+
+- **Trasacinal**:
+    Não vou abordar isso agora.
+
+Há tambem outras anotações avançadas que eu não quero abordar agora, como scheduling.
 
 ## Spring Bean Scope
 
@@ -77,4 +151,3 @@ Utilizando os Annotations de `@Scope("")`, essa annotation pode ter os seguintes
 - `prototype`: -> sendo a criação de uma instancia para cada solicitação
 - `request`: -> criação de uma instancia por requisição http (web app)
 - `session`: -> criação de uma instancia por sessão http (web app não servless)
-
