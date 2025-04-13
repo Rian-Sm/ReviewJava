@@ -109,15 +109,20 @@ Spring é um topico a parte dentro do desenvolvimento web com java informações
 
 ### Topico 12 - Spring core
 
-- [ ] Configuração 
-- [ ] Dependency injection
-- [ ] Spring IOC
-- [ ] Spring AOP
-- [ ] Spring MVC
-- [ ] Annotations
-- [ ] Spring Bean Scope
+- [x] Configuração 
+- [x] Dependency injection
+- [x] Spring IOC
+- [x] Spring AOP
+- [x] Spring MVC
+- [x] Annotations
+- [x] Spring Bean Scope
 
 ### Topico 13 - Spring Security
+
+- [ ] Authentication
+- [ ] Authorization
+- [ ] OAuth2
+- [ ] JWT Authentication
 
 ### Topico 14 - Spring micellanius
 
